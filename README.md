@@ -1,4 +1,4 @@
 # assign1git
 First Comment 
-Editting the read me!
+This is a change on newbranch
 Amy Strohmeyer
